@@ -7,3 +7,5 @@
  *FilePath: \mydoc-2025\index.js
  *
  */
+
+console.log("hello git")
